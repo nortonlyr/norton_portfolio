@@ -1,6 +1,6 @@
 ![Norton_Portfolio](img/norton_portflio.png)
 
-### [Data Group Project: Driven Factors of Housing Price in Philadelphia Study](https://github.com/nortonlyr/ZCW.DataGroupProject)   
+### [Data Group Project: Driven Factors of Housing Price in Philadelphia Study*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
 - Data Collection: Airflow
 - Data Cleaning: Pandas
@@ -34,4 +34,7 @@
 - Classes 
 - Terminal
 - Unit Test 
+
+---  
+(* *Project still on going*)
   
