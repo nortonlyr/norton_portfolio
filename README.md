@@ -2,6 +2,7 @@
 
 ### [Data Group Project: Driven Factors of Housing Price in Philadelphia Study*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
+- View the project report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - Data Collection: Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
