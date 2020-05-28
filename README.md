@@ -26,7 +26,7 @@
 - Language: R
 - NoSQL Database: MongoDB
 - Visualization Tools: ggplot2, plotly -> (3D plot)
-- In this project, I applied both R-Studio and jupyter notebook to import and export data from MongoDB, and then used ggplot2 and plotly to demonstrate the poltly module data visualization, respectively.
+- In this project, I applied both R-Studio and jupyter notebook to import and export data from MongoDB, and then used ggplot2 and plotly to demonstrate data visualization, respectively.
   
 
 ---
