@@ -3,7 +3,7 @@
 ### [Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
 - View the project report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
-- [GroupProjectCoverPage*](malbt.github.io/ZCW.DataGroupProject)  
+- [GroupProjectCoverPage](https://malbt.github.io/ZCW.DataGroupProject/)  
 - Data Collection: Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
