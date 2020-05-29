@@ -14,7 +14,7 @@
   
 
 ---
-### [AirFlow Pipeline: New York City Airbnb Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
+### [Airflow Pipeline: New York City Airbnb Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
 
 - Airflow
 - Pandas
@@ -25,7 +25,7 @@
 ![Airflow_Project](img/airflow_flow_chart.png)
 
 ---
-### [Alternative Data Engineering Tool Research](https://github.com/nortonlyr/Week9-ResearchProjects)  
+### [Alternative Data Engineering Tools Research](https://github.com/nortonlyr/Week9-ResearchProjects)  
 
 - Language: R
 - NoSQL Database: MongoDB
