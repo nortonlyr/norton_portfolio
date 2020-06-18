@@ -42,6 +42,7 @@
 - Terminal
 - Unit Test 
 
+![BlackJack_Project](img/blackjack.jpg)
 ---  
 (* *Project still on going*)
   
