@@ -9,7 +9,7 @@
 - Data Cleaning: Pandas
 - Data Storage: MySQL
 - Data Transformation (Join Table): Spark(SQL) Cluster @ Databricks  
-- Data Visualization: Jupyter Notebook: Matplotlib, seaborn, plotly -> (3D plot)
+- Data Visualization: Jupyter Notebook: Matplotlib -> (heatmap), seaborn -> (pairplot, boxplot), plotly -> (3D plot), Tableau -> (dashboard)
 
 ![Data_Group_Project](img/DataGroupProject.png)
   
@@ -38,9 +38,11 @@
 ---
 ### [Black Jack Game](https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack)   
   
+- PyCharm
+
 - Classes 
 - Terminal
-- Unit Test 
+- Unit Testing 
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
