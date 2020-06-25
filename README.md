@@ -49,7 +49,7 @@
 ---
 ### [Tableau Public Data Visulization](https://public.tableau.com/profile/norton.li#!/)   
   
-- [Social Media Top 10 From 05/19 to 05/20] (https://public.tableau.com/profile/norton.li#!/vizhome/Social_Media_19to20_Vis01/Social_Media_19to20_Vis_01)
+- [Social Media Top 10 (05/19 -05/20)](https://public.tableau.com/profile/norton.li#!/vizhome/Social_Media_19to20_Vis01/Social_Media_19to20_Vis_01)
 
 ![Tableau_Vis](img/social_media_vis01.png)
 ---  
