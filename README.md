@@ -6,7 +6,7 @@
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Data Collection: Airflow
-- Data Cleaning: Pandas
+- Data Cleaning Framework: Pandas
 - Data Storage: MySQL
 - Data Transformation (Join Table): Spark(SQL) Cluster @ Databricks  
 - Data Visualization: Jupyter Notebook: Matplotlib -> (heatmap), seaborn -> (pairplot, boxplot), plotly -> (3D plot); Tableau: dashboard
@@ -21,7 +21,7 @@
 - Pandas
 - MySQL / PostgreSQL
 - Jupyter Notebook Report
-- AWS (S3, EC2, RDS)
+- AWS deployment (S3, EC2, RDS)
 
 ![Airflow_Project](img/airflow_flow_chart.png)
 
