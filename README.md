@@ -2,16 +2,16 @@
 
 | Project Lists| 
 | ------ | 
-| * [1. Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia](#Data-Group-Project:-Non-Traditional-Housing-Price-Predictor-in-Philadelphia*)|
-| * [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline:-New-York-City-Airbnb-Selection)|
-| * [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
-| * [4. Black Jack Game](#Black-Jack-Game)|
-| * [5. Tableau Public - Data Visualization](#Tableau-Public:-Data-Visualization)|
-| * [6. Kafka: NYC Bus Live Map](#Kafka:-NYC-Bus-Live-Map)|
+| [1. Non-Traditional Housing Price Predictor in Philadelphia (Data Group Project) ](#Nontraditional-Housing-Price-Predictor-in-Philadelphia)|
+| [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline-New-York-City-Airbnb-Selection)|
+| [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
+| [4. Black Jack Game](#Black-Jack-Game)|
+| [5. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
+| [6. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
-### [Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
+### [Nontraditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
-- View the project report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
+- View the group project report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Data Collection: Airflow
@@ -24,7 +24,7 @@
   
 
 ---
-### [Airflow Pipeline: New York City Airbnb Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
+### [Airflow Pipeline New York City Airbnb Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
 
 - Airflow
 - Pandas
@@ -56,7 +56,7 @@
 ---  
 
 ---
-### [Tableau Public: Data Visualization](https://public.tableau.com/profile/norton.li#!/)   
+### [Tableau Public Data Visualization](https://public.tableau.com/profile/norton.li#!/)   
   
 - [Social Media Top 10 (05/19 -05/20)](https://public.tableau.com/profile/norton.li#!/vizhome/Social_Media_19to20_Vis01/Social_Media_19to20_Vis_01)
 
@@ -66,7 +66,7 @@
 ---  
 
 ---
-### [Kafka: NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
+### [Kafka NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
   
 In this repo, kafka is used for tracking the route of the designed buslines. When we run the busdata producers python files, you will see 3 different moving spots in the map.
 
