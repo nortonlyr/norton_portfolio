@@ -3,7 +3,7 @@
 | Project Lists| 
 | ------ | 
 | [1. Nontraditional Housing Price Predictor in Philadelphia (Data Group Project) ](#Nontraditional-Housing-Price-Predictor-in-Philadelphia))|
-| [2. Airflow Pipeline New York City Airbnb Selection](#Airflow-Pipeline-New-York-City-Airbnb-Selection)|
+| [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline-New-York-City-Airbnb-Selection)|
 | [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
 | [4. Black Jack Game](#Black-Jack-Game)|
 | [5. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
