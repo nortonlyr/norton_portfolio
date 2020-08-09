@@ -2,12 +2,12 @@
 
 | Project Lists| 
 | ------ | 
-| * [1. Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia](#Data-Group-Project:-Non-Traditional-Housing-Price-Predictor-in-Philadelphia*)|
-| * [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline:-New-York-City-Airbnb-Selection)|
-| * [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
-| * [4. Black Jack Game](#Black-Jack-Game)|
-| * [5. Tableau Public - Data Visualization](#Tableau-Public:-Data-Visualization)|
-| * [6. Kafka: NYC Bus Live Map](#Kafka:-NYC-Bus-Live-Map)|
+| [1. Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia](#Data-Group-Project:-Non-Traditional-Housing-Price-Predictor-in-Philadelphia*)|
+| [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline:-New-York-City-Airbnb-Selection)|
+| [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
+| [4. Black Jack Game](#Black-Jack-Game)|
+| [5. Tableau Public: Data Visualization](#Tableau-Public:-Data-Visualization)|
+| [6. Kafka NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
 ### [Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
@@ -66,7 +66,7 @@
 ---  
 
 ---
-### [Kafka: NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
+### [Kafka NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
   
 In this repo, kafka is used for tracking the route of the designed buslines. When we run the busdata producers python files, you will see 3 different moving spots in the map.
 
