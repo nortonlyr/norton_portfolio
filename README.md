@@ -59,7 +59,7 @@
 ---
 ### [Kafka - NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
   
-- In this repo, kafka is used for tracking the route of the designed buslines. When we run the busdata producers python files, you will see 3 different moving spots in the map.
+In this repo, kafka is used for tracking the route of the designed buslines. When we run the busdata producers python files, you will see 3 different moving spots in the map.
 
 Environment & tools:
 
@@ -67,9 +67,9 @@ Environment & tools:
 - Kafka
 - Javascript (Leaflet.JS)
 
-![Kafka_01](img/kafka_pic_01).png)
-![Kafka_02](img/kafka_pic_02).png)
-![Kafka_03](img/kafka_pic_03).png)
+![Kafka_01](img/kafka_pic_01.png)
+![Kafka_02](img/kafka_pic_02.png)
+![Kafka_03](img/kafka_pic_03.png)
 ---  
 
 (* *Project still on going*)
