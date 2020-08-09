@@ -3,10 +3,10 @@
 | Project Lists| 
 | ------ | 
 | [1. Non-Traditional Housing Price Predictor in Philadelphia (Data Group Project) ](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia-(Data-Group-Project))|
-| [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipelin-New-York-City-Airbnb-Selection)|
+| [2. Airflow Pipeline - New York City Airbnb Selection](#Airflow-Pipelin-New-York-City-Airbnb-Selection)|
 | [3. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
 | [4. Black Jack Game](#Black-Jack-Game)|
-| [5. Tableau Public: Data Visualization](#Tableau-Public:-Data-Visualization)|
+| [5. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
 | [6. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
 ### [Non-Traditional Housing Price Predictor in Philadelphia (Data Group Project)](https://github.com/nortonlyr/ZCW.DataGroupProject)   
@@ -56,7 +56,7 @@
 ---  
 
 ---
-### [Tableau Public: Data Visualization](https://public.tableau.com/profile/norton.li#!/)   
+### [Tableau Public Data Visualization](https://public.tableau.com/profile/norton.li#!/)   
   
 - [Social Media Top 10 (05/19 -05/20)](https://public.tableau.com/profile/norton.li#!/vizhome/Social_Media_19to20_Vis01/Social_Media_19to20_Vis_01)
 
