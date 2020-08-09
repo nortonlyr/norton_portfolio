@@ -2,7 +2,7 @@
 
 | Project Lists| 
 | ------ | 
-| [1. Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia](ata Group Project: Non-Traditional Housing Price Predictor in Philadelphia*)|
+| [1. Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia](#Data-Group-Project:-Non-Traditional-Housing-Price-Predictor-in-Philadelphia*)|
 
 ### [Data Group Project: Non-Traditional Housing Price Predictor in Philadelphia*](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
