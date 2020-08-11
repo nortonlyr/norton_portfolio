@@ -81,5 +81,5 @@ Environment & tools:
 ![Kafka_03](img/kafka_pic_03.png)
 ---  
 
-(* *Project still on going*)
+
   
