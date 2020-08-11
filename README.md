@@ -50,7 +50,8 @@
 - PyCharm
 - Classes 
 - Terminal
-- Unit Testing 
+- Unit Testing
+- OOP 
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
@@ -75,6 +76,7 @@ Environment & tools:
 - Python 3.70 (pykafka, flask, JSON)
 - Kafka
 - Javascript (Leaflet.JS)
+- html
 
 ![Kafka_01](img/kafka_pic_01.png)
 ![Kafka_02](img/kafka_pic_02.png)
