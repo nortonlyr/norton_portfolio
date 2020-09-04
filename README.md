@@ -1,6 +1,6 @@
 ![Norton_Portfolio](img/norton_portflio.png)
 
-| Project Lists| 
+| Project List| 
 | ------ | 
 | [1. Non-Traditional Housing Price Predictor in Philadelphia (Data Group Project) ](#Nontraditional-Housing-Price-Predictor-in-Philadelphia)|
 | [2. Airflow Pipeline: New York City Airbnb Selection](#Airflow-Pipeline-New-York-City-Airbnb-Selection)|
