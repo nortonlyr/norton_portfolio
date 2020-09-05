@@ -11,13 +11,13 @@
 
 ### [Nontraditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
-- View the group project report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
+- View the group project data visualization report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Data Collection: Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
-- Data Transformation (Join Table): Spark(SQL) Cluster @ Databricks  
+- Data Transformation (Join Table): Spark(SQL), Cluster @ Databricks  
 - Data Visualization: Jupyter Notebook: Matplotlib -> (heatmap), seaborn -> (pairplot, boxplot), plotly -> (3D plot); Tableau: dashboard
 
 ![Data_Group_Project](img/DataGroupProject.png)
@@ -47,11 +47,10 @@
 ---
 ### [Black Jack Game](https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack)   
   
-- PyCharm
-- Classes 
-- Terminal
+- Classes
 - Unit Testing
-- OOP 
+- OOP
+- Terminal
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
@@ -69,7 +68,7 @@
 ---
 ### [Kafka NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
   
-In this repo, kafka is used for tracking the route of the designed buslines. When we run the busdata producers python files, you will see 3 different moving spots in the map.
+In this repo, kafka is used for tracking the route of the designed buslines. When we run the  three different busdata producers python files, you will see three different moving spots in the map.
 
 Environment & tools:
 
