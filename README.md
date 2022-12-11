@@ -12,7 +12,6 @@
 ### [Nontraditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
 - View the group project data visualization report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
-- [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Data Collection: Airflow
 - Data Cleaning: Pandas
